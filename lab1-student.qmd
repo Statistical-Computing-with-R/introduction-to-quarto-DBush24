@@ -49,11 +49,11 @@ chunk and paste in the code provided in the Lab 1 instructions.
 `?ToothGrowth` (or alternatively `help(ToothGrowth)`.Use the information that
 pops up in the *Help* pane in RStudio to fill in the blanks below. 
 
-*This dataset investigates the effect of _____ on tooth growth in ____.*
+*This dataset investigates the effect of __vitamin C___ on tooth growth in __guinea pigs__.*
 
-*The two supplement delivery methods include OJ (____) and VC (____).*
+*The two supplement delivery methods include OJ (_orange juice___) and VC (__ascorbic acid__).*
 
-*`ToothGrowth` is a data frame with ___observations and ____ variables.*
+*`ToothGrowth` is a data frame with _60__observations and __3__ variables.*
 
 **Question 5** -- *Before* the code chunk, change the "Running the Provided
 Code" section header to a header that better describes the contents of this
