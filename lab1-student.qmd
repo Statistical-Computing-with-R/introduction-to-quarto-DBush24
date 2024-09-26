@@ -6,7 +6,7 @@ format: html
 editor: source
 embed-resources: true
 execute:
-  output:true
+  output: true
   error: true
   echo: false
 ---
